@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shruti Pandey</h1>
 <h3 align="center">A passionate full stack web developer and coding enthusiast from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgsp31" alt="tgsp31" /></a> </p>
-
 - 📫 How to reach me **mithisp31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
